@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🚶I am Sandipan Roy Chowdhury.
-📱I am interested in creating native & hybrid mobile applications using the Swift, SwiftUI, Objective C, React Native. 
-🎮I’m also interested in developing 2D/3D games using Unity3D. 
-👀I am looking to collaborate on freelancing work. 
-💻Please feel free to get in touch if you have any questions or if there's anything else you'd like to know. Thank you!
+🚶I am Sandipan Roy Chowdhury.<br />
+📱I am interested in creating native & hybrid mobile applications using the Swift, SwiftUI, Objective C, React Native.<br /> 
+🎮I’m also interested in developing 2D/3D games using Unity3D. <br />
+👀I am looking to collaborate on freelancing work. <br />
+💻Please feel free to get in touch if you have any questions or if there's anything else you'd like to know. Thank you!<br />
 
 
 <!--
